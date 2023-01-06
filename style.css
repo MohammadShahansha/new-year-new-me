@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header-part {
+    /* display: inline-block; */
+    text-align: right;
+    padding: 216px 230px 24px 800px;
+
+
+    /* width: 50%; */
+}
+
+.header-part h3 {
+    font-weight: 700;
+    font-size: 58px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.head-description {
+    margin-bottom: 32px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #444343;
+}
+
+.header-part button {
+    padding: 20px 25px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    background: #F15B22;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.head {
+    background-image: url(./images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 808px;
+}
+
+/*main style start*/
+main {
+    margin: 131px 230px 130px 206px;
+}
+
+
+.failer-part {
+    display: flex;
+    gap: 87px;
+}
+
+.failer-description {
+    margin-top: 239px;
+}
+
+.failer-description h4 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.failer-description p {
+    margin-top: 24px;
+    margin-bottom: 14px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #444343;
+}
+
+.failer-description ul li {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    color: #444343;
+}
+
+/* my plans start now */
+.my-plan{
+    margin-top: 129px;
+}
+.plans{
+    text-align: center;
+}
