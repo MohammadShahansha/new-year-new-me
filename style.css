@@ -60,6 +60,11 @@ main {
     margin-top: 239px;
 }
 
+.fails-contant li {
+    list-style-type: none;
+
+}
+
 .failer-description h4 {
     font-weight: 700;
     font-size: 40px;
@@ -82,9 +87,39 @@ main {
 }
 
 /* my plans start now */
-.my-plan{
+.my-plan {
     margin-top: 129px;
 }
-.plans{
+
+.plans {
     text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.my-skill-of-future {
+    display: flex;
+    /* gap: 50px; */
+    justify-content: space-between;
+    margin-top: 55px;
+    margin-bottom: 131px;
+
+}
+
+.skill {
+    text-align: center;
+}
+
+.skill h4 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #151414;
+}
+
+.skill p {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    margin-top: 10px;
 }
